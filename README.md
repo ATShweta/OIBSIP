@@ -16,6 +16,10 @@ This project aims to perform customer segmentation analysis for an e-commerce co
 This project demonstrates data cleaning techniques on a real-world dataset to ensure data quality for analysis and model building. Data cleaning is a crucial step in the data science workflow, as it helps to improve the reliability and accuracy of results.
 <br/><b> Goal </b> - Data Integrity, Handling Missing Data, Removing duplicates, Outlier Detection and Handling, Standardization
 
+### <b> Task 4 - Sentiment Analysis </b>
+The goal of this project is to develop a sentiment analysis model that classifies text data into **positive**, **neutral**, or **negative** sentiments. By analyzing text from various sources, this model can provide valuable insights into public opinion, customer feedback, and social media trends.
+
+
 ## Level 2
 
 ### <b> Task 5 - House Price Prediction with Linear Regression </b>
