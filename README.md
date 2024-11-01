@@ -16,6 +16,9 @@ This project aims to perform customer segmentation analysis for an e-commerce co
 This project demonstrates data cleaning techniques on a real-world dataset to ensure data quality for analysis and model building. Data cleaning is a crucial step in the data science workflow, as it helps to improve the reliability and accuracy of results.
 <br/><b> Goal </b> - Data Integrity, Handling Missing Data, Removing duplicates, Outlier Detection and Handling, Standardization
 
+### <b> Task 4 - House Price Prediction with Linear Regression </b>
+The objective of this project is to develop a regression model to predict house prices based on various factors such as area, number of bedrooms, presence of air conditioning, and other house features. Linear regression, a fundamental machine learning algorithm, is used in this project to provide a clear interpretation of the relationships between features and house prices.
+
 ### <b> Technologies Used - 
 - Python
 - Pandas
