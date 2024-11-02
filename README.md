@@ -28,6 +28,8 @@ The objective of this project is to develop a regression model to predict house 
 ### <b> Task 6 - Wine Quality Prediction </b>
 The objective of this project is to predict wine quality based on its chemical properties using machine learning models, enabling insights into which attributes most influence quality. This approach aids in improving quality control and assessment in viticulture.
 
+### <b> Task 7 - Fraud Detection </b>
+This project implements a machine learning-based fraud detection system using credit card transaction data to identify fraudulent activities through anomaly detection and real-time monitoring.
 
 ## <b> Technologies Used - 
 - Python
