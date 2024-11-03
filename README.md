@@ -31,6 +31,10 @@ The objective of this project is to predict wine quality based on its chemical p
 ### <b> Task 7 - Fraud Detection </b>
 This project implements a machine learning-based fraud detection system using credit card transaction data to identify fraudulent activities through anomaly detection and real-time monitoring.
 
+### <b> Task 8 - Unveiling the Android App Market: Analyzing Google Play Store Data </b>
+Analyzed Google Play Store data to uncover app market dynamics through data cleaning, categorization, and visualization. Gained insights into ratings, pricing trends, and user sentiments across app categories
+
+
 ## <b> Technologies Used - 
 - Python
 - Pandas
